@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u \IeC {\dj }\IeC {\`\ecircumflex } t\IeC {\`a}i}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Kh\IeC {\'a}i qu\IeC {\'a}t chung}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Ph\IeC {\^a}n t\IeC {\'\i }ch \IeC {\dj }\IeC {\`\ecircumflex } t\IeC {\`a}i v\IeC {\`a} \IeC {\'y} t\IeC {\uhorn }\IeC {\h \ohorn }ng}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Ki\IeC {\'\ecircumflex }n tr\IeC {\'u}c t\IeC {\h \ocircumflex }ng quan c\IeC {\h u}a h\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Ch\IeC {\'\uhorn }c n\IeC {\u a}ng module 1}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Ch\IeC {\'\uhorn }c n\IeC {\u a}ng module 2}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Ch\IeC {\'\uhorn }c n\IeC {\u a}ng module 3}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Ch\IeC {\'\uhorn }c n\IeC {\u a}ng ngo\IeC {\`a}i}{4}{subsection.2.4}
+\contentsline {section}{\numberline {3}Hi\IeC {\d \ecircumflex }n th\IeC {\d \uhorn }c h\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}S\IeC {\ohorn } \IeC {\dj }\IeC {\`\ocircumflex } m\IeC {\'a}y tr\IeC {\d a}ng th\IeC {\'a}i c\IeC {\h u}a h\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}M\IeC {\d \ocircumflex }t s\IeC {\'\ocircumflex } h\IeC {\`a}m x\IeC {\h \uhorn } l\IeC {\'y} ch\IeC {\'\i }nh c\IeC {\h u}a m\IeC {\~\ocircumflex }i tr\IeC {\d a}ng th\IeC {\'a}i}{5}{subsection.3.2}
+\contentsline {section}{\numberline {4}T\IeC {\h \ocircumflex }ng k\IeC {\'\ecircumflex }t v\IeC {\`a} H\IeC {\uhorn }\IeC {\'\ohorn }ng m\IeC {\h \ohorn } r\IeC {\d \ocircumflex }ng}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}T\IeC {\h \ocircumflex }ng k\IeC {\'\ecircumflex }t}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}H\IeC {\uhorn }\IeC {\'\ohorn }ng m\IeC {\h \ohorn } r\IeC {\d \ocircumflex }ng}{7}{subsection.4.2}
